@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "checkpassword": "jest checkpassword.test.js --watch"
+    "checkpassword": "jest checkpassword.test.js --watch",
+    "pair": "jest pair.test.js --watch",
+    "reverse": "jest reverse.test.js --watch"
   },
   "author": "faiyaz",
   "license": "ISC",
